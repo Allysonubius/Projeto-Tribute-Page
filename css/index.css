@@ -1,0 +1,41 @@
+/*Codificação da pagina index.html sendo o estilo da pagina.*/
+/*Direitos Reservados a Allyson de Oliveira Brandão*/
+/*Projeto pedido pela Free Code Camp.*/
+/*___________________________ estrtura da pagina _________________________________*/
+body{
+	font-size: 16px;
+	font-family: sans-serif,serif,monospace;
+}
+
+img{
+}
+p{
+	text-align: justify;
+}
+footer{
+	background-color: black;
+	color: white;
+}
+/*___________________________ CLASS _________________________________*/
+
+
+
+/*___________________________ ID _________________________________*/
+/*1- Na pagina deve conter um id = main */
+#main{
+
+}
+/*2 - Na pagina deve conter um id = title */
+#title{
+
+}
+/*3 - Na pagina deve conter um id = img-div */
+#div-img{
+
+}
+/*4 - Na pagina deve conter um id = image */
+#image{
+	display: block;
+	max-width: 100%;
+  height: auto;
+}
