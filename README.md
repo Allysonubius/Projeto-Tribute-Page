@@ -1,4 +1,4 @@
-# Projeto-Tribute-Page
+# Projeto Tribute Page
 
 ![](https://trello-attachments.s3.amazonaws.com/5e6ab38e8109710b66a2bb38/5ec01f3a8d8f4215417090c3/2a4ba4312e1faa58687f87fa15894486/image.png)
 #Projeto de Design Web Responsivo
